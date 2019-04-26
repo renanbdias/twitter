@@ -5,6 +5,7 @@ const userSchema = {
     id: { type: 'int', indexed: true },
     name: 'string',
     email: 'string',
+    tweets: 'Tweet[]',
     createdAt: { type: 'date', default: new Date() }
   }
 };
