@@ -116,6 +116,11 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+### Realm ###
+# Realm files
+default.realm.managment/*
+default.realm.note
+
 ### SublimeText ###
 # Cache files for Sublime Text
 *.tmlanguage.cache
