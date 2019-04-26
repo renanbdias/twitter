@@ -118,7 +118,7 @@ typings/
 
 ### Realm ###
 # Realm files
-default.realm.managment/*
+*.cv
 default.realm.note
 
 ### SublimeText ###
